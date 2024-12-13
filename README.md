@@ -23,4 +23,8 @@ A simple Hangman game built in Python where the player guesses a randomly select
 5. **Continue guessing** until you guess the entire word or the hangman reaches its maximum number of tries (6).
 6. **Keep track of your score** and play again if you wish!
 
+## Technologies Used
+
+- Python
+
 
